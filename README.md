@@ -1,6 +1,6 @@
 # TastyChest Project
 
-This project represents a website for a cupcake business, showcasing a variety of cupcakes. The website is designed with HTML, CSS, and utilizes the Slick Carousel library for image sliders. Used @mixin
+This project represents a website for a cupcake business, showcasing a variety of cupcakes. The website is designed with HTML, CSS, and utilizes the Slick Carousel library for image sliders. Used SCSS with @mixin
 
 ## Table of Contents
 - [Folder Structure](#folder-structure)
