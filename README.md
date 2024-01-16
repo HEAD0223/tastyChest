@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Work Project](https://img.shields.io/badge/Project-Work-blue)
-![Self Development](https://img.shields.io/badge/Project-Self_Development-purple)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-yellow)
 ![Freelance](https://img.shields.io/badge/Project-Freelance-brightgreen)
 ![Own Projects](https://img.shields.io/badge/Project-Own-red)
 
