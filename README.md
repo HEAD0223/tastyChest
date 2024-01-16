@@ -26,7 +26,7 @@ This project represents a website for a cupcake business, showcasing a variety o
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tastyChest.git
+git clone https://github.com/HEAD0223/tastyChest.git
 cd tastyChest
 ```
 
