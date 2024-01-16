@@ -11,7 +11,7 @@ This project represents a website for a cupcake business, showcasing a variety o
 
 -  [Folder Structure](#folder-structure)
 -  [Usage](#usage)
--  [Screenshots](#screenshots)
+-  [Media](#media)
 -  [Contributing](#contributing)
 -  [Dependencies](#dependencies)
 
@@ -32,15 +32,12 @@ cd tastyChest
 
 2. Open the index.html file in a web browser to view the website.
 
-## Screenshots
+## Media
 
-![photo_1](https://github.com/HEAD0223/tastyChest/assets/43917535/3ce775bb-65bf-442b-b833-52b4977618b2)
-![photo_2](https://github.com/HEAD0223/tastyChest/assets/43917535/b37ea329-4120-477d-9aa2-7b39d9267ff4)
-![photo_3](https://github.com/HEAD0223/tastyChest/assets/43917535/061b17e7-6c94-4e26-ad3b-9a7c69d96e93)
-![photo_4](https://github.com/HEAD0223/tastyChest/assets/43917535/79b0af2e-1f32-44f9-9b90-94fdb3aaffd8)
-![photo_5](https://github.com/HEAD0223/tastyChest/assets/43917535/2c4db4de-1f99-4d3f-9069-91a962f795bc)
-![photo_6](https://github.com/HEAD0223/tastyChest/assets/43917535/176def47-9724-4444-bbd0-f202a316dc00)
-![photo_7](https://github.com/HEAD0223/tastyChest/assets/43917535/1f5ebecb-fd1a-4c80-9163-0c8723640514)
+![TastyChest](./img/TastyChest.gif)
+![tastyChest_1](./img/tastyChest_1.jpg)
+![tastyChest_2](./img/tastyChest_2.png)
+![tastyChest_3](./img/tastyChest_3.png)
 
 ## Contributing
 
