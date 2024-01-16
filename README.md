@@ -5,6 +5,7 @@
 ![Work Project](https://img.shields.io/badge/Project-Work-blue)
 [![Chrome Compatibility](https://img.shields.io/badge/Chrome_Compatible-Yes-informational?logo=google-chrome)](https://head0223.github.io/tastyChest/)
 [![Compatibility](https://img.shields.io/badge/Compatibility-Chrome-informational?logo=google-chrome)](https://head0223.github.io/tastyChest/)
+[![Compatibility](https://img.shields.io/badge/Compatibility-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/tastyChest/)
 
 This project represents a website for a cupcake business, showcasing a variety of cupcakes. The website is designed with HTML, CSS, and utilizes the Slick Carousel library for image sliders. Used SCSS with @mixin
 
