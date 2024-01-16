@@ -1,10 +1,9 @@
 # TastyChest Project
 
+![Project Type](https://img.shields.io/badge/Project_Type-Landing-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Work Project](https://img.shields.io/badge/Project-Work-blue)
-![Self Development](https://img.shields.io/badge/Project-Self_Development-yellow)
-![Freelance](https://img.shields.io/badge/Project-Freelance-brightgreen)
-![Own Projects](https://img.shields.io/badge/Project-Own-red)
+[![Chrome Compatibility](https://img.shields.io/badge/Chrome_Compatible-Yes-informational?logo=google-chrome)](https://head0223.github.io/tastyChest/)
 
 This project represents a website for a cupcake business, showcasing a variety of cupcakes. The website is designed with HTML, CSS, and utilizes the Slick Carousel library for image sliders. Used SCSS with @mixin
 
